@@ -50,7 +50,7 @@ const handleOnchange=(event)=>{
 const [text,setText]=useState("Enter text here")
   return (
     
-    <>
+    <>  
     <div className='container'>
 <h1> {props.heading} </h1>
 <div className="mb-3">
